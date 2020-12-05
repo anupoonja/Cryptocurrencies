@@ -29,30 +29,32 @@ The provided data in this challenege is preprocessed by :
 
 The newly created dataframe with preprocessed data are then standardized using StandardScaler()
 
-![A]()
+![A](AddRes/A.png)
 
 ### Reducing Data Dimensions Using PCA
 
 Using the Principal Component Analysis (PCA) algorithm, the dimensions of the X DataFrame, are reduced to three principal components and these dimensions are placed in a new DataFrame.
 
-![B]()
+![B](AddRes/B.png)
 
 ### Clustering Cryptocurrencies Using K-means
 
 Using K-means algorithm, and using an elbow curve is created to find the best value for K from the last dataframe created.
 K-means algorithm are executed to predict the K clusters for the cryptocurrencies’ data.
 
-![C]()
+![C](AddRes/C.png)
 
-![D]()
+![D](AddRes/D.png)
 
 ### Visualizing Cryptocurrencies Results
 
 Scatter plot and 3D scatter plot are created with Plotly Express and hvplot to visualize the distinct groups.
 
-![E]()
+![E](AddRes/E.png)
 
-![F]()
+![F](AddRes/F.png)
 
 
 ## Summary
+
+
